@@ -5,8 +5,13 @@
 
 ## Packages
 pip install pyperclip
+
 pip install xlrd
+
 pip install pyautogui
+
 pip install opencv
+
 pip install pillow
+
 
